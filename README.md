@@ -5,6 +5,8 @@ TensorFlow-based Convolutional Neural Network (CNN) for the binary classificatio
 
 Trained Over 20,000 Images of Dogs and Cats
 
+### <a href="https://1drv.ms/u/s!Ak5cN7ry7ksshoRPH2X-IYvDu_HHIQ?e=Z9OFNJ">Download</a> the Model Directly to Use it.
+
 ### Model Accuracy -> 90%
 
 
